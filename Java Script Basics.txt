@@ -1,0 +1,12 @@
+
+let name = 'mosh";
+console.log (name);
+
+//they cannot be a reserved keyword
+//should be meaningful
+//cannot start with a number (1name)
+//Cannot contain a space or hyphen(-)
+//Are Case Sensative 
+
+let firstname= 'Mosh';
+let lastname= 'hamedani';
